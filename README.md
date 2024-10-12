@@ -1,7 +1,7 @@
 
-### Olá me chamo o Junior Wender! 👋
+### Olá me chamo o Junior Wender! 👋🏼
 
-Atualmente, estou cursando Desenvolvimento Web Full Stack pela Trybe 🚀. Sou formado em Engenharia Elétrica 👨‍🎓 e estou fazendo a transição para a área de desenvolvimento. Resido em Contagem-MG 🌍 e sou apaixonado por tecnologia e o seu potencial para transformar o futuro.
+Atualmente, estou cursando Desenvolvimento Web Full Stack pela Trybe 🚀. Sou formado em Engenharia Elétrica 👨🏼‍🎓 e estou fazendo a transição para a área de desenvolvimento. Resido em Contagem-MG 🌍 e sou apaixonado por tecnologia e o seu potencial para transformar o futuro.
 
 ## 🌐 Redes Sociais
 Caso queira vamos nos conectar! Será um prazer:
