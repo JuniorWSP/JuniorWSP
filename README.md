@@ -8,6 +8,8 @@ Caso queira vamos nos conectar! Será um prazer:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/juniorwender)
 
+Email: juniorwender@yahoo.com.br
+
 ## ⚡ GitHub Status
 ![Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorWSP&show_icons=true&theme=blue-green&line_height=33)
 ![Junior GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=JuniorWSP&show_icons=true&theme=blue-green)
