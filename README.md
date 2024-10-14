@@ -4,7 +4,7 @@
 Atualmente, estou cursando Desenvolvimento Web Full Stack pela Trybe 🚀. Sou formado em Engenharia Elétrica 👨🏼‍🎓 e estou fazendo a transição para a área de desenvolvimento. Resido em Contagem-MG 🌍 e sou apaixonado por tecnologia e o seu potencial para transformar o futuro.
 
 ## 🌐 Redes Sociais
-Caso queira vamos nos conectar! Será um prazer:
+Caso queira, vamos nos conectar! Será um prazer:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/juniorwender)
 
